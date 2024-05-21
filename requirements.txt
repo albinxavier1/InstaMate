@@ -1,2 +1,3 @@
+yt-dlp==2022.12.27
 moviepy==1.0.3
-SpeechRecognition==3.9.0
+speechrecognition==3.8.1
